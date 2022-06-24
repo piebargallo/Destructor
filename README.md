@@ -1,1 +1,1 @@
-<h4>Eejmplo básico de destructor</h4>
+<h4>Ejemplo básico de Destructor</h4>
